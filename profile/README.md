@@ -41,6 +41,12 @@ We tackle security challenges through:
 
 We welcome security researchers, developers, and privacy advocates who share our vision of a more secure digital future. Together, we're building the next generation of communication technologies that put security and privacy first.
 
+## Contact with us
+
+Telegram: https://t.me/NitroSocksE
+
+Telegram(with Chinese): https://t.me/NitroSocksX
+
 ---
 
 *Building trust in an untrusted world*

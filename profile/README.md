@@ -47,6 +47,8 @@ Telegram: https://t.me/NitroSocksE
 
 Telegram(with Chinese): https://t.me/NitroSocksX
 
+Discord: https://discord.com/invite/c6BBrMbcQP
+
 ---
 
 *Building trust in an untrusted world*
